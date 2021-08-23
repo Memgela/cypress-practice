@@ -1,0 +1,14 @@
+{
+  "name": "my-qa-project",
+  "version": "1.0.0",
+  "description": "My first cypress project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.3.0"
+  }
+}
